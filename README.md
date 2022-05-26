@@ -28,6 +28,7 @@
 - Run the command `pip install -r requirements.txt`.
 - After all the dependencies are installed, run the command `python manage.py runserver`.
 - This will run the local django server and you will be able to use it with Flutter.
+- To access the admin panel on route ` http://localhost:8000/admin `, the default username and password is `admin`.
 - Now, navigate to the flutterapp named folder and then run the command `flutter pub get`.
 - Start your emulator or simulator to run the flutter application in your preferred device.
 - Inside the lib folder of flutter project structure, select service_class file and set your localhost url according to the device.
