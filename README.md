@@ -4,7 +4,7 @@
 
 - Flutter sdk should be installed. (Version >=2.8.x)
   > > [Download | Flutter (Flutter.dev)](https://docs.flutter.dev/get-started/install)
-- Python should be installed. (Version >=16.x.x)
+- Python should be installed. (Version >=3.9.x)
   > > [Download | Python (python.org)](https://www.python.org/downloads/)
 - Pip should be installed. (Version >=21.1.x)
   > > [Download | Pip (pip.pypa.io)](https://pip.pypa.io/en/stable/installation/)
